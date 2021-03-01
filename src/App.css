@@ -1,0 +1,32 @@
+input {
+  height: 2rem;
+  font: 700 1.4rem/1.4rem Verdana;
+  width: 50%;
+  padding: 0.5rem
+}
+textarea {
+  font: 400 0.8rem/1.1rem Verdana;
+  padding: 0.5rem
+}
+.App {
+  text-align: center;
+}
+.App-header {
+  background: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #FFF;
+}
+.floatLeft {
+  float: left;
+}
+.floatRight {
+  float: right;
+}
+.marginRight {
+  margin-right: 4rem;
+}
