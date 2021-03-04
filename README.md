@@ -80,3 +80,4 @@ After initialising the default Create React App:
 cd to the root of your application then:
 
 npm i @tensorflow/tfjs @tensorflow-models/qna react-loader-spinner# BERT_QandA
+# BERTQandA
